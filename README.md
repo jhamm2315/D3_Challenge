@@ -16,4 +16,4 @@ Create an interactive scatterplot of the data in which:
 - Looks visually appealing and professional (axis labels, ticks, etc.)
 
 ##### Note: 
-To view final project - You will need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in yr web browser.
+To view final project - You will need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
