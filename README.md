@@ -10,7 +10,7 @@ The editor wants to run a series of feature stories about the health risks facin
 The data set included with the assignment is based on 2014 ACS 1-year estimates retrieved from census.gov. The current data set includes data on rates of income, obesity, poverty, etc. by state. "MOE" stands for "margin of error."
 
 ### Project Goal
-Create a interactive scatterplot of the data in which:
+Create an interactive scatterplot of the data in which:
 - x-axis and y-axis can be selected to show different data
 - Incorporate tooltips so each data point shows the data when moused over
 - Looks visually appealing and professional (axis labels, ticks, etc.)
